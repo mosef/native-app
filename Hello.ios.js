@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
 const Hello = () => {
   return (
     <View style={styles.hello}>
-      <Text style={styles.helloText}>Hello from Hello.js</Text>
+      <Text style={styles.helloText}>Hello IOS</Text>
     </View>
   );
 };
